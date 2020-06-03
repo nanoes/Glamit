@@ -1,0 +1,102 @@
+    body {
+        margin: 0;
+        background: #FAFAFA 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    
+    h3 {
+        background: #E4E8EE 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    
+    @media (min-width: 768px) {
+        .navbar-nav.navbar-center {
+            position: absolute !important;
+            left: 50% !important;
+            transform: translatex(-50%) !important;
+        }
+    }
+    
+    footer .footer-page {
+        background: #100217E6 0% 0% no-repeat padding-box;
+        box-shadow: 0px -3px 6px #00000026;
+        opacity: 1;
+    }
+    
+    img.logo {
+        margin: 0 auto;
+    }
+    
+    img.logo2 {
+        width: 24px;
+        height: 24px;
+        margin: right top;
+        opacity: 1;
+    }
+    
+    .CUSTOM {
+        background: #100217E6 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000026;
+        opacity: 1;
+    }
+    
+    a.nav-link {
+        text-align: left;
+        font: Bold 20px/24px Roboto;
+        letter-spacing: 0.4px;
+        color: #FAFAFA;
+        text-transform: uppercase;
+        opacity: 1;
+        text-decoration: none;
+    }
+    
+    button.hamburguesa {
+        width: 27px;
+        height: 23px;
+        background: transparent url('assets/iconos/bars-solid.svg') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        color: #FAFAFA;
+    }
+    
+    .claseTres {
+        background: #E4E8EE 0% 0% no-repeat padding-box;
+        opacity: 1;
+        text-align: left;
+        font: Bold 16px/19px Roboto;
+        letter-spacing: 0.32px;
+        color: #030B1C;
+        width: 260px;
+        height: 29px;
+    }
+    
+    .claseZapa {
+        text-align: left;
+        font: Bold 24px/29px Roboto;
+        letter-spacing: 0.48px;
+        color: #030B1C;
+        opacity: 1;
+    }
+    
+    .foot {
+        text-align: left;
+        font: Regular 16px/22px Roboto;
+        letter-spacing: 0.32px;
+        color: #FAFAFA;
+        opacity: 1;
+        text-decoration: none;
+    }
+    
+    .titles {
+        text-align: left;
+        font: Regular 16px/22px Roboto;
+        letter-spacing: 0.32px;
+        color: #030B1C;
+        opacity: 1;
+    }
+    
+    hr.style {
+        width: 260px;
+        height: 0px;
+        border: 1px solid #030B1C;
+        opacity: 1;
+    }
